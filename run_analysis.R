@@ -1,5 +1,7 @@
 ## Getting and Cleaning Data - course project
 
+# Initialization
+
 library(plyr)
 library(dplyr)
 subjectColumn<-c("subject")
